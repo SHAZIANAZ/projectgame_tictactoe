@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My_Game</string>
+
+
+    <string name="playButton">Play</string>
+
+
+
+
+
+
+
+
+
+    <string name="homeButton">Home</string>
+
+    <string name="tieGame">TieGame</string>
+
+
+
+
+</resources>
